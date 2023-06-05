@@ -1,3 +1,0 @@
-/Users/135477/workingspaces/json_simple_parser/build/CMakeFiles/cjson.dir
-/Users/135477/workingspaces/json_simple_parser/build/CMakeFiles/edit_cache.dir
-/Users/135477/workingspaces/json_simple_parser/build/CMakeFiles/rebuild_cache.dir
